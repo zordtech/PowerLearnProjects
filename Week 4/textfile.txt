@@ -1,0 +1,5 @@
+Hello world!
+This is a text file
+It is used to test a written program 
+Power Learn Project 
+2025
